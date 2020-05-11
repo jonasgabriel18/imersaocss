@@ -1,0 +1,52 @@
+body {
+    background-image: url('https://i.ytimg.com/vi/Rkg5RXxlxuk/maxresdefault.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+  }
+  
+  .site-title, .site-subtitle, .site-subtitle2 {
+    text-align: center;
+  }
+  
+  .site-subtitle2{
+    font-style: italic;
+  }
+  
+  a {
+    text-decoration: none;
+    color: darkcyan;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    margin-left: 40px;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu {
+    font-size: 23px;
+  }
+  
+  ol {
+    display: block;
+    padding: 50px;
+    margin-left: 40px;
+    font-size: 23px;
+    list-style-type: upper-roman;
+  }
+  
+  .jett {
+    background-image: url(https://vignette.wikia.nocookie.net/valorant/images/6/6d/Jett_%28Half%29.png/revision/latest?cb=20200405200254);
+    background-repeat: no-repeat;
+    background-size: 110px 110px;
+    background-position: 40px 0px;
+  }
